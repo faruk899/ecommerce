@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <title>Task 1</title>
     <style>
         table {
             font-family: arial, sans-serif;
@@ -18,6 +19,7 @@
 <body>
 
 <div style="padding: 20px">
+    <a href="index.php"><strong>Task 1</strong></a>
     <a href="task_2.php"><strong>Task 2</strong></a>
 </div>
 

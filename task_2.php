@@ -16,6 +16,7 @@ require_once 'functions.php';
     <div id="body">
         <div style="padding: 20px">
             <a href="index.php"><strong>Task 1</strong></a>
+            <a href="task_2.php"><strong>Task 2</strong></a>
         </div>
 
         <article>
